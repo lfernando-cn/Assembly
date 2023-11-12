@@ -1,3 +1,11 @@
+; Develop an assembly program where the user enters two numbers and chooses
+; which type of operation they would like to perform: addition, subtraction,
+; division, or multiplication. The program calculates the chosen operation on
+; the two entered numbers and displays the result of the equation.
+
+
+
+
 section .data
 
     msg1 db "Enter a first number: "
